@@ -8,7 +8,7 @@ ANJO is an innovative remote health monitoring solution, designed initially for 
 ...
 
 ## Authors
-* Luan Magioli - [luanmagioli](https://github.com/luanmagioli)
+* [@luanmagioli](https://github.com/luanmagioli)
 
 ## Acknowledgments
 * Researchers from Laboratório de Inovações na Saúde - UFRN
